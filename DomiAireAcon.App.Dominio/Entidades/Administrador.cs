@@ -9,3 +9,4 @@ namespace DomiAireAcon.App.Dominio
     }
 }
 ////No entiendo los parametros para Administrador
+//este cambio es de prueba 
